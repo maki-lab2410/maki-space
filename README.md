@@ -1,5 +1,9 @@
 # 🚀 Maki Space — Sistem Penjadwalan & Peminjaman Ruangan Lab
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-%3E%3D8.2-777BB4?logo=php&logoColor=white)](https://php.net)
+
 Sistem aplikasi web berbasis **Laravel 11**, **Tailwind CSS**, dan **Alpine.js** yang dirancang untuk mengelola peminjaman dan penjadwalan ruangan laboratorium kampus/institusi secara interaktif, real-time, anti-bentrok, dan dilengkapi asisten cerdas bertenaga **Google Gemini AI (LLM)**.
 
 ---
